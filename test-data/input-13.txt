@@ -1,0 +1,5 @@
+# Az SINGLE tüzelési mód nem működik, ha éppen kifogytunk a torpedókból.
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
