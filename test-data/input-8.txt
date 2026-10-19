@@ -1,0 +1,3 @@
+# Az ALL tüzelési mód nem működik helytelen paraméterezéssel.
+GT4500,10,0,10,0
+TORPEDO,BOTH

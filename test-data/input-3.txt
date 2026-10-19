@@ -1,0 +1,3 @@
+# A SINGLE tüzelési mód nem működik, ha minden tároló üres.
+GT4500,0,0,0,0
+TORPEDO,SINGLE
