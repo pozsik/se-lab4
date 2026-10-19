@@ -1,0 +1,3 @@
+# Az ALL tüzelési mód működik, ha csak az első tároló üres, a második nem.
+GT4500,0,0,10,0
+TORPEDO,ALL

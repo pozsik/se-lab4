@@ -1,0 +1,3 @@
+# Az ALL tüzelési mód működik, ha csak (legalább) egy tárolóból sikerült lőni.
+GT4500,10,0,10,1
+TORPEDO,ALL

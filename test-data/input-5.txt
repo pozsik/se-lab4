@@ -1,0 +1,3 @@
+# A SINGLE tüzelési mód nem próbálkozik a másik tárolóval, ha az első kilövési kísérlet hibát adott vissza.
+GT4500,10,1,10,0
+TORPEDO,SINGLE
